@@ -15,8 +15,8 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29445/preview_image/kotlin.jpg">
   <img align="center" alt="Java" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXpmZDjU5o66ZyTUgRMGi1gLsFgoIOZmt68Jy9GXFHgH1wvoS9vVjLAM_ONroo4Suoek&usqp=CAU">
   <img align="center" alt="TypeScripty" height="30" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png">
-  <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
 
 </div>
