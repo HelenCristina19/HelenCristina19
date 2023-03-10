@@ -4,7 +4,7 @@
  
  </br> 
 
-aula de Fron end  no senai
+aula de Fron end  no senaigit status
 
 <div align="center">
   <a href="https://github.com/rick-png">
