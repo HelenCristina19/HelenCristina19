@@ -1,6 +1,6 @@
 ### 👋 Olá me chamo Helen Cristina 
 
- 📱 Sou Desenvolvedora Android , e estudante de Desenvolvimento Front End. Amo novos desafios e não perco a oportunidade de aprender coisas novas, sou organizada e estou sempre disponível para o ajudar. Procuro estar cercado de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei. 💻
+ 📱 Sou Desenvolvedora Android , e estudante de Desenvolvimento Front End. Amo novos desafios e não perco a oportunidade de aprender coisas novas, sou organizada e estou sempre disponível para o ajudar. Procuro estar cercada de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei. 💻
  
  </br> 
 
