@@ -1,6 +1,6 @@
 ### 👋 Olá me chamo Helen Cristina 
 
- 📱 Sou Desenvolvedora Android , e estudante de Desenvolvimento Front End. Amo novos desafios e não perco a oportunidade de aprender coisas novas, sou organizada e estou sempre disponível para o ajudar. Procuro estar cercada de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei. 💻
+ 📱 Sou Desenvolvedora Android, e estudante de Desenvolvimento Front End. Amo novos desafios e não perco a oportunidade de aprender coisas novas, sou organizada e estou sempre disponível para o ajudar. Procuro estar cercada de pessoas que extraem o melhor de mim, me ajudando a sempre desempenhar o meu máximo. Por isso, quero compartilhar com vocês um pouco do que sinto quando programo e retribuir com tudo o que sei. 💻
  
  </br> 
 
@@ -15,7 +15,7 @@
   <img align="center" alt="TypeScripty" height="30" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Portugol" height="30" width="40" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png>
+  <img align="center" alt="Portugol" height="30" width="40" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
   
 
 </div>
